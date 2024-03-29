@@ -1,3 +1,8 @@
 Google Play is the official online store for digital media on Android, consisting of myriad of different applications, used by more that 2.5 billion monthly users. Over thousands of apps are being developed and deployed on a daily basis, which affects the overall app market. Businesses tend to look for insights which help them to make informed decisions that can benefit their investments.
 On the other hand, analyzing data allows developers to understand how users interact with their app. This includes tracking user sessions, engagement metrics, feature usage, and more. With this information, developers can identify popular features, pain points, and areas for improvement. By analyzing data, developers can gain insights into user preferences and behaviors, enabling them to optimize the user experience.
+
 Through this project, I have tried to look for insights in the given app data with a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories.
+
+The project involves the basic data analysis steps including data cleaning, data preprocessing, before performing a thorough analysis on the different applications grouped by categories, on the basis of customer reviews and ratings. This gives us a clear insight on the relationships between different attributes like size, price and ratings of the applications. 
+
+Overall, this project on data analytics in the Google Play Store is essential for developers as well as businessess to understand user behavior, optimize the user experience, improve app performance, inform decision-making, and measure the success of their app.
